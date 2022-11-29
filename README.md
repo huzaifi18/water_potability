@@ -1,0 +1,2 @@
+# Prediksi Kelayakan Air Minum Berdasarkan Zat yang Terkandung Menggunakan Algoritma Random Forest
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huzaifi18/water_potability/blob/main/TK2_Kelompok%205.ipynb)<br>
